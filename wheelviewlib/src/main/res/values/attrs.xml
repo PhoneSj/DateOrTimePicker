@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WheelView">
+        <attr name="normalTextColor" format="reference|color"/>
+        <attr name="selectedTextColor" format="reference|color"/>
+        <attr name="normalTextSize" format="reference|dimension"/>
+        <attr name="selectedTextSize" format="reference|dimension"/>
+        <attr name="dividerColor" format="reference|color"/>
+        <attr name="dividerPaddingLeft" format="reference|dimension"/>
+        <attr name="dividerPaddingRight" format="reference|dimension"/>
+        <attr name="dividerSize" format="reference|dimension"/>
+        <attr name="showCount" format="integer"/>
+        <attr name="isCycle" format="boolean"/>
+    </declare-styleable>
+</resources>
